@@ -1,0 +1,1 @@
+import{c9 as r,__tla as u}from"./index-d2088aec.js";let a,s=Promise.all([(()=>{try{return u}catch{}})()]).then(async()=>{a=(l,t="default",n)=>{if(!l||!Reflect.has(l,t)||!r(l[t]))return null;const e=l[t];return e?e(n):null}});export{s as __tla,a as g};

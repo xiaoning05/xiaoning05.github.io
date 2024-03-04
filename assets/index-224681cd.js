@@ -1,0 +1,1 @@
+import{ap as t,__tla as p}from"./index-d2088aec.js";let r,s,e,u,l=Promise.all([(()=>{try{return p}catch{}})()]).then(async()=>{u=a=>t.put({url:"/mp/user/update",data:a}),s=a=>t.get({url:"/mp/user/get?id="+a}),r=a=>t.get({url:"/mp/user/page",params:a}),e=a=>t.post({url:"/mp/user/sync?accountId="+a})});export{l as __tla,r as a,s as g,e as s,u};
