@@ -1,0 +1,1 @@
+import{cc as a,__tla as o}from"./index-f0743f71.js";let e,c=Promise.all([(()=>{try{return o}catch{}})()]).then(async()=>{e=(l,t="default",r)=>{if(!l||!Reflect.has(l,t))return null;if(!a(l[t]))return console.error(`${t} is not a function!`),null;const n=l[t];return n?n(r):null}});export{c as __tla,e as g};
