@@ -1,1 +1,0 @@
-import{c8 as a,__tla as o}from"./index-aaa5adb3.js";let e,s=Promise.all([(()=>{try{return o}catch{}})()]).then(async()=>{e=(l,t="default",r)=>{if(!l||!Reflect.has(l,t))return null;if(!a(l[t]))return console.error(`${t} is not a function!`),null;const n=l[t];return n?n(r):null}});export{s as __tla,e as g};

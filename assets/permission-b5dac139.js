@@ -1,1 +1,0 @@
-import{i,dW as c,dX as l,__tla as m}from"./index-f0743f71.js";let t,_=Promise.all([(()=>{try{return m}catch{}})()]).then(async()=>{const{t:s}=i();t=function(r){if(r&&r instanceof Array&&r.length>0){const{wsCache:n}=c(),o=r,a="*:*:*";return!!n.get(l.USER).permissions.some(e=>a===e||o.includes(e))}return console.error(s("permission.hasPermission")),!1}});export{_ as __tla,t as c};
